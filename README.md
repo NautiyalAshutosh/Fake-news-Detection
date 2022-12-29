@@ -4,8 +4,7 @@ In this project we have tried to predict the news as fake or correct.
 The dataset can be downloaded from the given link:
   https://www.kaggle.com/c/fake-news/data?select=train.csv
   
-The dataset has 5 columns as below:
-  id: unique id for a news article
+The dataset has 5 columns as below: \n id: unique id for a news article
   title: the title of a news article
   author: author of the news article
   text: the text of the article; could be incomplete
